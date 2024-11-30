@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @JimmyXtesla
-- 👀 I’m interested in Data science and Software development
-- 💞️ I’m looking to collaborate on Software development and Bioinformatics 
-- 📫 How to reach me jimmyxbanda@gmail.com
+-  Hi, I’m Jimmy Banda. I am an innovator in the software development space and I am interested in Bioinformatics and Artifical intelligence applications.
+-  I am into development of bioinformatics pipelines for processing of molucular biology datasets
 <!---
 JimmyXtesla/JimmyXtesla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
