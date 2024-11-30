@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JimmyXtesla
 - 👀 I’m interested in Data science and Software development
-- 💞️ I’m looking to collaborate on Spftware development
+- 💞️ I’m looking to collaborate on Software development and Bioinformatics 
 - 📫 How to reach me jimmyxbanda@gmail.com
 <!---
 JimmyXtesla/JimmyXtesla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
